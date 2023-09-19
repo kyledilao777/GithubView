@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **mobile app development**
 
-- 📫 How to reach me **kyledaniel.lao@gmail.com**
+- 📫 Reach me @ **kyledaniel.lao@gmail.com**
 
 - ⚡ Fun fact **I have a love-hate relationship with coding. Mostly love. Hopefully the feeling is mutual.**
 
