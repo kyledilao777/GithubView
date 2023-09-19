@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my page! 😃 </h1>
-<h3 align="center">Throw me an orange and I will create orange juice in a For Loop :)</h3>
+<h3 align="center">Throw me an orange and I will create orange juice recursively :)</h3>
 
 - 🔭 I’m currently working on [Plan It!](https://github.com/kyledilao777/Orbital2023PlanIt.git), a tool to help students schedule their meetings conveniently.
 
